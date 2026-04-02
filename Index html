@@ -1,0 +1,115 @@
+html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melinda Bryan - Statement of Concerns</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1 {
+            color: #c0392b;
+            text-align: center;
+            border-bottom: 3px solid #c0392b;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #e74c3c;
+            margin-top: 30px;
+        }
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin-bottom: 25px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .email {
+            background-color: #f4f4f4;
+            border-left: 6px solid #3498db;
+            padding: 15px 20px;
+            margin: 20px 0;
+            font-style: italic;
+        }
+        .response {
+            background-color: #fff0f0;
+            border-left: 6px solid #e74c3c;
+            padding: 15px 20px;
+            margin: 20px 0;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        .commentary {
+            font-style: italic;
+            color: #555;
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-left: 6px solid #f39c12;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Melinda Bryan - Statement of Concerns</h1>
+    
+    <div class="section">
+        <p><strong>Melinda Bryan</strong> is an elderly woman in Largo, Florida.</p>
+        <p>She has committed multiple misdemeanors against her own child and grandchildren. She has exhibited extremely erratic behavior, including driving 2½ hours to her son’s wife’s ex-husband’s house in what can only be described as a spiteful mission to ruin her daughter-in-law’s life.</p>
+        <p>She still refuses to answer for these actions and should not be trusted with children — she is not even trusted with her own grandchildren.</p>
+    </div>
+
+    <h2>Actual Email from Melinda Bryan (October 2025)</h2>
+    <div class="email">
+        <p>Dear Justin,</p>
+        <p>As time passes, I keep thinking that this pain in my heart will lessen, but it doesn’t. I have been told that “no contact” is best but it is not.</p>
+        <p>I believe that only love is the path forward and only love can heal broken hearts.</p>
+        <p>I have caused you pain. My most heartfelt apologies can only be forgiven through love. With love comes understanding, with love I want to understand. We can’t change the past, but we can learn from it. I want peace for you, so that you have been heard and accepted. I may not like what you say, but I will honor it.</p>
+        <p>I will always love you,<br>
+        Mom</p>
+        <p style="font-size:0.9em; color:#777;">Sent from my iPhone</p>
+    </div>
+
+    <h2>Your Response</h2>
+    <div class="response">
+        <p><strong>WHAT ARE YOU SORRY FOR?</strong></p>
+        <p>Being toxic to me and my wife? Giving these guilt trips about not seeing the kids when we gave you lots of opportunities? Expecting us to form our schedules around you?</p>
+        <p>Taking Maverick to the zoo for 6 hours and not answering your phone?</p>
+        <p>Saying disrespectful things about my daughter's birth to someone on the phone with my wife in the room?</p>
+        <p>Overstepping during the birth of my daughter?</p>
+        <p>Refusing the job I offered you to nanny my children and then taking the same job a year and a half later at my cousin's house a mile down the road?</p>
+        <p>Driving 2½ hours to my wife's ex-husband's house after I already filed a lawsuit against him for defamation of character?</p>
+        <p>Disclosing confidential information about a DCF investigation to third parties?</p>
+        <p>Defaming my character? Defaming my wife's character?</p>
+        <p>Believe me when I tell you I can go on and on and on...</p>
+        <p>But I really want to hear it from you. <strong>What exactly are you sorry for?</strong></p>
+        <p>Why did you send this email? Why did you intend to hurt my daughter? Why did you intend to hurt my son? Why did you intend to hurt my wife? And why did you intend to hurt me?</p>
+        <p>If you are sorry, what actions are you willing to take to make this right?</p>
+    </div>
+
+    <h2>Commentary</h2>
+    <div class="commentary">
+        <p>She's sorry for something? Maybe that she just got caught? I don’t know.</p>
+        <p>I think she's hoping that maybe I'll get divorced and everything will be hunky dory. Nope.</p>
+        <p>I believe this woman is a lizard. She can't even admit what she did.</p>
+        <p>There are still things she can do: she could tell people she was in the wrong. She could turn in the felons. She could turn herself in for the misdemeanors (or felonies) that she likely committed. She could share with the world that she is sorry.</p>
+        <p>Instead, all I get is a lonely email saying she's "sorry". She won't return my calls. She won't return my texts. All I get is an email that she won't even respond to when I ask her what she is apologizing for.</p>
+        <p>If you know this woman, please ask her: <strong>What is she sorry for?</strong> Because she won't tell me.</p>
+    </div>
+
+</body>
+</html>
